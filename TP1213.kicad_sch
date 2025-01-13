@@ -4,6 +4,13 @@
 	(generator_version "8.0")
 	(uuid "5b99b4a8-6680-4286-9039-3e28e2e2e404")
 	(paper "A4")
+	(title_block
+		(title "TP1213")
+		(date "2025-01-14")
+		(rev "0.00")
+		(company "@stop-pattern")
+		(comment 4 "汎用ジョイスティック基板")
+	)
 	(lib_symbols)
 	(sheet_instances
 		(path "/"
